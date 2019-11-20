@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div class="hello">
    <div class="dhl">
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540814399485&di=51bea46bbd9e6e4c628c81ffa6ffdfbc&imgtype=0&src=http%3A%2F%2Fimg.aso.aizhan.com%2Ficon%2F8f%2F32%2F9e%2F8f329e7be7624f5d7b155493c16ceaa7.jpg" alt="">
@@ -16,7 +16,7 @@
    </div>
 
    <div class="flh">
-      <div class="ns1">男生</div>
+      <div class="ns1">111</div>
       <div class="ns2">女生</div>
       <div class="xh">玄幻</div>
        <div class="yq">言情</div>
